@@ -18,5 +18,5 @@ This will compile the example programs such as req, rep, pub, and sub.
 Requirements
 ------------
 - CMake 3.22 or newer
-- A C compiler with C11 support
+- A C compiler with >= C11 support
 ```
