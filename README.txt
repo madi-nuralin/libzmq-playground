@@ -1,4 +1,3 @@
-```
 zmq-playground
 ==============
 
@@ -19,4 +18,3 @@ Requirements
 ------------
 - CMake 3.22 or newer
 - A C compiler with >= C11 support
-```
